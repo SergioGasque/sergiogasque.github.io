@@ -1,0 +1,224 @@
+* {
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+.index__body {
+  background-color: rgb(37, 37, 37);
+  color: silver;
+}
+
+.index__body__div--encabezado {
+  position: fixed;
+  margin-top: auto;
+  border: 20px solid rgb(66, 66, 66);
+  margin: -10px;
+  background-color: rgb(66, 66, 66);
+  text-align: left;
+  width: 100%;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  overflow: hidden;
+}
+.index__body__div--foto {
+  size: 50px;
+  display: inline-block;
+  text-align: right;
+  text-decoration: none;
+}
+
+.perfilft {
+  height: 100px;
+  float: right;
+  /*width: 100px;*/
+  border-radius: 20px;
+  margin-right: 70px;
+}
+.navegador_ul {
+  text-decoration: none;
+  border-radius: 2px;
+  color: darkgrey;
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+}
+.navegador_li {
+  text-decoration: none;
+  display: inline-block;
+  padding: 30px;
+  margin-top: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(190, 190, 190);
+}
+.link:hover {
+  color: cornflowerblue;
+  text-decoration: underline;
+}
+.link:active {
+  color: purple;
+  text-decoration: underline;
+}
+.minombre {
+  margin: 10px;
+  padding-top: 0px;
+  margin-bottom: -20px;
+  color: rgb(182, 182, 182);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.redes {
+  list-style: none;
+  float: right;
+  margin-right: 200px;
+  margin-top: -75px;
+  padding-inline: 100px;
+}
+.youtube {
+  width: 68px;
+  margin-right: 40px;
+}
+
+.twitter {
+  width: 68px;
+  margin-right: 40px;
+}
+.insatgram {
+  width: 68px;
+}
+.index_body--main {
+  padding-top: 160px;
+  font-weight: 700px;
+  font-size: 18px;
+}
+
+.centrado {
+  width: 90%;
+  max-width: 1000px;
+  margin-left: 80px;
+  margin-right: 80px;
+  overflow: hidden;
+  text-align: left;
+}
+.index_body_main--lista {
+  margin-top: 10px;
+}
+.index_body_main_lista--img1 {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  float: right;
+}
+.index_body_main_lista--img2 {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  float: right;
+  margin-top: 20px;
+}
+.lista1 {
+  margin-top: 10px;
+}
+.lista2 {
+  margin-top: 40px;
+}
+.lista3 {
+  margin-top: 40px;
+}
+.lista4 {
+  margin-top: 40px;
+}
+h2 {
+  margin-bottom: 20px;
+  color: cornflowerblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.formulario {
+  padding-top: 175px;
+  margin-left: 40px;
+}
+.textarea {
+  text-align: center;
+  margin-top: 20px;
+}
+.nmbr {
+  margin-left: 110px;
+}
+.papellido {
+  margin-left: 58px;
+}
+.sapellido {
+  margin-left: 41px;
+}
+.correo {
+  margin-left: 33px;
+}
+.tlf {
+  margin-left: 22px;
+}
+.semana {
+  margin-top: 20px;
+}
+.direccion {
+  margin-left: 98px;
+}
+.empresa {
+  margin-left: 2px;
+  margin-top: 20px;
+}
+.enviar {
+  margin-top: 20px;
+}
+.reset {
+  margin-left: 80px;
+}
+.cp {
+  margin-top: 20px;
+  margin-left: 65px;
+}
+.radio {
+  margin-top: 20px;
+}
+.horas {
+  margin-top: 20px;
+}
+.curriculum {
+  padding-top: 150px;
+  margin-left: 30px;
+}
+h1 {
+  margin-top: 20px;
+}
+h4 {
+  margin: 10px;
+}
+.listacv {
+  margin-top: 10px;
+}
+.primerocv {
+  margin-top: 0px;
+}
+.curriculum h1 {
+  color: cornflowerblue;
+}
+.video {
+  float: right;
+  margin-top: -400px;
+  margin-right: 70px;
+  
+}
+.autor {
+  color: cornflowerblue;
+}
+.video2 {
+    margin-top: 200px;
+    margin-left: -200px;
+}
+.videog {
+    columns:2;
+}
+.videodesc {
+    margin-top: 210px;
+    font-weight: 400;
+}
