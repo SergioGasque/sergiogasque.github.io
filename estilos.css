@@ -170,9 +170,11 @@ h2 {
 }
 .enviar {
   margin-top: 20px;
+  margin-bottom: 10px;
 }
 .reset {
   margin-left: 80px;
+  margin-bottom: 10px;
 }
 .cp {
   margin-top: 20px;
@@ -213,7 +215,7 @@ h4 {
   color: cornflowerblue;
 }
 .video2 {
-    margin-top: 200px;
+    margin-top: 150px;
     margin-left: -200px;
 }
 .videog {
@@ -228,4 +230,43 @@ h4 {
   width: 550px;
   float: right;
   margin-top: -400px;
+}
+.pdp {
+height: 100px;
+width: 100%;
+background-color:rgb(66,66,66);
+position: fixed;
+bottom: 0px;
+left: 0px;
+border-radius: 20px;
+}
+.nombrepdp {
+  margin-top: 35px;
+  margin-left: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  
+}
+.redespdp {
+  columns: 3;
+  list-style: none;
+  float: right;
+  margin-right: 200px;
+  margin-top: -50px;
+  padding-inline: 100px;
+  display: inline;
+
+}
+.ytpdp {
+  width: 68px;
+  margin-right: 40px;
+
+}
+.twpdp {
+  width: 68px;
+  margin-right: 40px;
+}
+.igpdp {
+  width: 68px;
+  
 }
